@@ -8,4 +8,4 @@
 - Finally, run application.py and enjoy!
 
 # Notes:
-This project was not intended to circumvent the COVID precautions at U of T, but rather point them out as useless and redundant, and to show easy they are to circumvent.
+This project was not intended to circumvent the COVID precautions at U of T, but rather point them out as useless and redundant, and to show how easy they are to circumvent.
