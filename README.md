@@ -4,7 +4,7 @@
 # Instructions:
 - Ensure that you have Python 3.9 or greater installed.
 - This project requires two dependencies, Selenium, and webdriver-manager.
-- To install these libraries, type in pip install selenium and pip install webdriver-manager for each library respectively.
+- To install these libraries, type in ```pip install selenium``` and ```pip install webdriver-manager``` for each library respectively.
 - Finally, run application.py and enjoy!
 
 # Notes:
