@@ -8,4 +8,4 @@
 - Finally, run application.py and enjoy!
 
 # Notes:
-This project was not intended to circumvent the COVID precautions at U of T, but rather point them out as useless and redundant, and to show how easy they are to circumvent. This is simply a proof of concept, and I do not advise using this program to circumvent UCheck. This project has been published for educational purposes on how to automate things, and hopefully U of T improves their COVID precautions.
+This project was not intended to circumvent the COVID precautions at U of T, but rather point them out as useless and redundant, and to show how easy they are to circumvent. This is simply a proof of concept, and I do not advise using this program to circumvent UCheck. This project has been published for educational purposes on how to automate things.
