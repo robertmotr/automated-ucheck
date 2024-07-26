@@ -1,5 +1,5 @@
 # automated-ucheck
- Automates the COVID-19 UCheck system at the University of Toronto.
+ Automates the COVID-19 UCheck system at the University of Toronto. (no longer exists because the COVID-19 pandemic ended)
  
 # Instructions:
 - Ensure that you have Python 3.9 or greater installed.
